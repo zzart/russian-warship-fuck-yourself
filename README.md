@@ -1,4 +1,4 @@
-# russian-warship-fuck-yourself
+# russian-warship-fuck-yourself 🇺🇦
 
 Simple DDos attacks targeted at Russian Federation due to invasion of Ukraine.
 
@@ -13,6 +13,12 @@ Redhat/Centos/Fedora
 sudo dnf install httpd-tools
 ```
 
+Install the repo and change directory to it 
+```
+git clone git@github.com:zzart/russian-warship-fuck-yourself.git
+cd russian-warship-fuck-yourself
+```
+
 Make it executable
 ```
 chmod 777 ddos.sh
@@ -25,5 +31,6 @@ Attack
 
 Together we are stronger!
 
-PRs welcome.
+
+PRs are welcomed.
 
