@@ -6,6 +6,7 @@
 # dnf install httpd-tools
 
 # Edit the list of sites according to your liking ;)
+# URLs targeted from https://t.me/s/itarmyofukraine2022
 
 sites=(
 https://www.gazprom.ru/
