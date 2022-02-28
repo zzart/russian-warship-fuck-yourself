@@ -1,6 +1,7 @@
 # russian-warship-fuck-yourself 🇺🇦
 
 Simple DDos attacks targeted at Russian Federation due to invasion of Ukraine.
+URL's targeted from https://t.me/s/itarmyofukraine2022
 
 ## Installation
 Ubuntu/Debian

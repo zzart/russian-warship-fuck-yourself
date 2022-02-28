@@ -9,7 +9,7 @@
 
 sites=(
 https://www.gazprom.ru/
-https://lukoil.ru
+https://lukoil.ru/
 https://magnit.ru/
 https://www.nornickel.com/
 https://www.surgutneftegas.ru/
@@ -27,7 +27,7 @@ https://www.polymetalinternational.com/ru/
 https://www.uralkali.com/ru/
 https://www.eurosib.ru/
 https://omk.ru/
-https://www.sberbank.ru
+https://www.sberbank.ru/
 https://www.vtb.ru/
 https://www.gazprombank.ru/
 https://www.gosuslugi.ru/
@@ -39,6 +39,12 @@ https://www.nalog.gov.ru/
 https://customs.gov.ru/
 https://pfr.gov.ru/
 https://rkn.gov.ru/
+https://mail.rkn.gov.ru/
+https://cloud.rkn.gov.ru/
+https://mvd.gov.ru/
+https://pwd.wto.economy.gov.ru/
+https://stroi.gov.ru/
+https://proverki.gov.ru/
 )
 
 
