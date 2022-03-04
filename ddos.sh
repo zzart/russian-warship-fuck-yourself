@@ -46,6 +46,12 @@ https://mvd.gov.ru/
 https://pwd.wto.economy.gov.ru/
 https://stroi.gov.ru/
 https://proverki.gov.ru/
+https://www.gazprom.ru/
+https://privetmir.ru/
+https://mironline.ru/
+https://sbp.nspk.ru/
+https://nspk.ru/
+https://nspk.com/
 )
 
 
